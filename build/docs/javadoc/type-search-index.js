@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"org.monkey.examples","l":"MonkeyAnnotation.Level"},{"p":"org.monkey.examples","l":"MonkeyAnnotation"},{"p":"org.monkey.examples","l":"MonkeyBuilder"},{"p":"org.monkey.examples","l":"MonkeySavable"},{"p":"org.monkey.examples","l":"MonkeyUtils"}]
